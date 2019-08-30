@@ -14,6 +14,7 @@ Used 3 methods of backtesting (Binomial, POF, Conditionality) to verify estimate
 
 <br>
 ![1](https://scontent.fybz2-2.fna.fbcdn.net/v/t1.15752-9/69324405_3061705534054667_8467236717907148800_n.png?_nc_cat=107&_nc_oc=AQk-cpOOOXysqL4X-wEVYV4d1P1Qc9Cih5HGHzlvXB8wknefPL2BCcJz9omdFTvuI6U&_nc_ht=scontent.fybz2-2.fna&oh=d2454211f2e2dd19d0a822d609d70568&oe=5E0FA8BD) 
+
 <br>
 
 ## Extreme Value Theory (AMZN)
