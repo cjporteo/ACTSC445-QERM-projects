@@ -2,7 +2,7 @@
 
 These projects were completed as course requirements for ACTSC445 (Quantitative Enterprise Risk Management) at University of Waterloo.
 
-Various RM analysis techniques were conducted in R on real world stock data downloaded from [Yahoo Finance]([https://ca.finance.yahoo.com/](https://ca.finance.yahoo.com/)). Each project is accompanied with a PowerPoint file to describe code output, visualizations, and conclusions.
+Various RM analysis techniques were conducted in R on real world stock data downloaded from [Yahoo Finance](https://ca.finance.yahoo.com/). Each project is accompanied with a PowerPoint file to describe code output, visualizations, and conclusions.
 
 These R scripts are flexible concerning new stock data; the included *.csv* files can be replaced with other data and the code will function with minimal revision. 
 
