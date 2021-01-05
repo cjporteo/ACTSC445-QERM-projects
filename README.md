@@ -2,7 +2,7 @@
 
 These projects were completed as course requirements for ACTSC445 (Quantitative Enterprise Risk Management) at University of Waterloo.
 
-Grades for all of these projects were 98% or higher.
+**Grades for all of these projects were 98% or higher.**
 
 Various RM analysis techniques were conducted in R on real world stock data downloaded from [Yahoo Finance](https://ca.finance.yahoo.com/). Each project is accompanied with a PowerPoint file to describe code output, visualizations, and conclusions.
 
